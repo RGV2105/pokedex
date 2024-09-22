@@ -1,0 +1,18 @@
+#background-img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+.pokemon { 
+    margin: 10px; 
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 8px;
+    text-align: center; 
+}
+.pokemon img {
+    width: 100px; /* Ajusta el tamaño como desees */
+    height: auto; /* Mantiene la relación de aspecto */
+    display: block;
+    margin: 0 auto; /* Centra la imagen */
+}
